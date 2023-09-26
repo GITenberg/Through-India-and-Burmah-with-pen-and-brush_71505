@@ -1,5 +1,8 @@
 _repo: Through-India-and-Burmah-with-pen-and-brush_71505
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71505-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Fisher, A. Hugh (Alfred Hugh)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '8703'
     url: http://www.gutenberg.org/2009/agents/8703
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71505#Through-India-and-Burmah-with-pen-and-brush
 gutenberg_issued: '2023-08-28'
 identifiers:
   gutenberg: '71505'
